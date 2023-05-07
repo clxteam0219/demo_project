@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "juan-blanco.solidity",
+    "nomicfoundation.hardhat-foundy",
+    "esbenp.prettier-vscode",
+    "bekawestberg.solidity-extended",
+    "rangav.vscode-thunder-client",
+    "aaron-bond.better-comments",
+    "eamodio.gitlens"
+  ]
+}
