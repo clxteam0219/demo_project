@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/marcustnova/demo_project.git
-cd nft_platform_demo
+cd demo_project
 ```
 
 ### 2. Install Dependencies
