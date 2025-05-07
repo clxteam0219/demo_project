@@ -1,5 +1,6 @@
 import { configureChains } from 'wagmi';
-import { bsc, bscTestnet, mainnet, polygon, linea, lineaTestnet } from 'wagmi/chains';
+import { bsc } from '@/constants/chain';
+import { bscTestnet, mainnet, polygon, linea, lineaTestnet } from 'wagmi/chains';
 import { publicProvider } from 'wagmi/providers/public';
 import { MetaMaskConnector } from 'wagmi/connectors/metaMask';
 import { InjectedConnector } from 'wagmi/connectors/injected';
